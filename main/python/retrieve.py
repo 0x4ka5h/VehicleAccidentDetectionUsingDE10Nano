@@ -2,7 +2,7 @@ import time
 import requests
 from Adafruit_IO import RequestError,Client, Feed
 user='g00g1y5p4'
-key = "aio_lHMb18qHaS0fSlIvz7XBQwu39DgS"
+key = "aio_lHMb18qHaXXXXXXXXXXXXXXXXX"
 
 aio = Client(user,key)
 
